@@ -1,5 +1,5 @@
 # Has Target Sum Lab
-
+TEST
 ## Learning Goals
 
 - Practice algorithmic problem solving
